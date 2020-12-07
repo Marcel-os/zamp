@@ -1,0 +1,4 @@
+<map id="Interp4Move::PrintCmd" name="Interp4Move::PrintCmd">
+<area shape="rect" id="node1" title="Wyświetla postać bieżącego polecenia (nazwę oraz wartości parametrów)" alt="" coords="5,5,164,31"/>
+<area shape="rect" id="node2" href="$class_interp4_move.html#aae1e3bf7fc34076f19d857a8cd30082e" title="Wyświetla nazwę polecenia." alt="" coords="212,5,400,31"/>
+</map>

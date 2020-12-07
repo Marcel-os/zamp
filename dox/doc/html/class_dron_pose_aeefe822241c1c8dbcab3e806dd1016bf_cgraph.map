@@ -1,0 +1,6 @@
+<map id="DronPose::SetPos_m" name="DronPose::SetPos_m">
+<area shape="rect" id="node1" title="Ustawia wartości współrzędnych pozy robota." alt="" coords="5,55,155,80"/>
+<area shape="rect" id="node2" href="$class_wektor3_d.html#a20cfe36dfeae82a14f7efb8b8d7b6416" title="Udostępia do odczytu współrzędną x&#45;ową." alt="" coords="203,5,297,31"/>
+<area shape="rect" id="node3" href="$class_wektor3_d.html#adf24ec5e89baa6ad0b1cc5bf8c225015" title="Udostępia do odczytu współrzędną y&#45;ową." alt="" coords="203,55,297,80"/>
+<area shape="rect" id="node4" href="$class_wektor3_d.html#ace98a28eb8886b0910ac508914c66be0" title="Udostępia do odczytu współrzędną z&#45;ową." alt="" coords="203,104,297,129"/>
+</map>

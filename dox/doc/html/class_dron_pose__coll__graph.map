@@ -1,0 +1,4 @@
+<map id="DronPose" name="DronPose">
+<area shape="rect" id="node1" title="Modeluje zestaw informacji określający pozę robota." alt="" coords="5,92,86,117"/>
+<area shape="rect" id="node2" href="$class_wektor3_d.html" title="Wektor z przestrzeni 3D." alt="" coords="5,5,86,31"/>
+</map>

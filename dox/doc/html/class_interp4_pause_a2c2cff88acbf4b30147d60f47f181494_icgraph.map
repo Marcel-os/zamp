@@ -1,0 +1,4 @@
+<map id="Interp4Pause::GetCmdName" name="Interp4Pause::GetCmdName">
+<area shape="rect" id="node1" title="Wyświetla nazwę polecenia." alt="" coords="217,5,410,31"/>
+<area shape="rect" id="node2" href="$class_interp4_pause.html#a53181eb25fc5a9c0104400f561c8ce62" title="Wyświetla postać bieżącego polecenia (nazwę oraz wartości parametrów)" alt="" coords="5,5,169,31"/>
+</map>

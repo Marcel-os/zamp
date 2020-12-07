@@ -1,0 +1,22 @@
+warning: Tag 'XML_SCHEMA' at line 1839 of file 'Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'XML_DTD' at line 1845 of file 'Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'PERL_PATH' at line 2051 of file 'Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'MSCGEN_PATH' at line 2073 of file 'Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: doxygen no longer ships with the FreeSans font.
+You may want to clear or change DOT_FONTNAME.
+Otherwise you run the risk that the wrong font is being used for dot generated graphs.
+warning: The selected output language "polish" has not been updated
+since release 1.8.2.  As a result some sentences may appear in English.
+
+/Users/marceldomagala/Desktop/PWR/SEMESTR_7/Zamp/z1/zalazek/inc/DronPose.hh:66: warning: unable to resolve link to 'DronPose::AfterUpdate' for \link command
+/Users/marceldomagala/Desktop/PWR/SEMESTR_7/Zamp/z1/zalazek/inc/DronPose.hh:64: warning: argument 'angle_deg' of command @param is not found in the argument list of DronPose::SetAngle_deg(double Angle_deg)
+/Users/marceldomagala/Desktop/PWR/SEMESTR_7/Zamp/z1/zalazek/inc/DronPose.hh:73: warning: The following parameter of DronPose::SetAngle_deg(double Angle_deg) is not documented:
+  parameter 'Angle_deg'
+/Users/marceldomagala/Desktop/PWR/SEMESTR_7/Zamp/z1/zalazek/inc/DronPose.hh:50: warning: argument 'rWsp' of command @param is not found in the argument list of DronPose::SetPos_m(const Wektor3D &rWsp_m)
+/Users/marceldomagala/Desktop/PWR/SEMESTR_7/Zamp/z1/zalazek/inc/DronPose.hh:50: warning: argument 'y_m' of command @param is not found in the argument list of DronPose::SetPos_m(const Wektor3D &rWsp_m)
+/Users/marceldomagala/Desktop/PWR/SEMESTR_7/Zamp/z1/zalazek/inc/DronPose.hh:60: warning: The following parameter of DronPose::SetPos_m(const Wektor3D &rWsp_m) is not documented:
+  parameter 'rWsp_m'

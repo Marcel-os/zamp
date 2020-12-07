@@ -1,0 +1,1 @@
+Move Ob_B 10 20            /* powoduja jazde po luku         */

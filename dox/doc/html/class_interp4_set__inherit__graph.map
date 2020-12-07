@@ -1,0 +1,4 @@
+<map id="Interp4Set" name="Interp4Set">
+<area shape="rect" id="node1" title="Modeluje polecenie dla robota mobilnego, które ustawia obiekt w określonej pozycji." alt="" coords="26,79,109,104"/>
+<area shape="rect" id="node2" href="$class_interp4_command.html" title="Modeluje abstrakcyjne polecenie dla robota mobilnego." alt="" coords="5,5,130,31"/>
+</map>
